@@ -1,6 +1,7 @@
 3.0.0 2018xxxx
   CR: Projekt - Update
-      - Anhebung auf Java 6
+      - Anhebung auf Java 8
+      - Versionsverwaltung: Umstellung auf GitHub
 
 2.3.0 20130707
   CR: Projekt - Update
