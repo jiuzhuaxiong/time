@@ -27,7 +27,7 @@ Street, Fifth Floor, Boston, MA 02110-1301, USA.
 # System Requirement
 - Java Runtime 8.x or higher
 - Seanox Devwex 5.x
-- Seanox Command x.x.x
+- Seanox Common x.x.x
 
 
 # Downloads
